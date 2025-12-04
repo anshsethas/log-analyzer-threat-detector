@@ -85,4 +85,4 @@ IP: 102.80.33.5 | Requests: 3  | Score: 0
 Ansh Kumar
 Cybersecurity Student | Threat Analysis | Python | IAM
 📬 Contact
-LinkedIn: https://www.linkedin.com/in/anshsethas/
+LinkedIn: https://www.linkedin.com/in/ansh02
