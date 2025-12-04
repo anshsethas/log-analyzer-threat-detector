@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Security Tool](https://img.shields.io/badge/Category-Security--Tool-red)
+![Log Analysis](https://img.shields.io/badge/Focus-Log%20Analysis-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB)
+
 # 🔍 Log Analyzer & Threat Detector
 
 A Python-based cybersecurity tool designed to analyze Apache/Nginx access logs and detect suspicious IP activity using a custom threat-scoring engine.  
